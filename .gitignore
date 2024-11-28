@@ -3,6 +3,7 @@
 !character.ts
 .env
 node_modules
+app.yaml
 
 db.sqlite
 .vercel
