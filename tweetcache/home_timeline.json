@@ -1,0 +1,4546 @@
+[
+  {
+    "id": "1861601483504185774",
+    "name": "Elon Musk",
+    "username": "elonmusk",
+    "text": "https://t.co/6YZUIst6Vs",
+    "createdAt": "Wed Nov 27 02:42:35 +0000 2024",
+    "userId": "44196397",
+    "conversationId": "1861601483504185774",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/6YZUIst6Vs",
+        "expanded_url": "https://x.com/MKnowlesShow/status/1861546237809365399/video/1",
+        "id_str": "1861545656000667648",
+        "indices": [
+          0,
+          23
+        ],
+        "media_key": "7_1861545656000667648",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1861545656000667648/pu/img/0xs2K4njjjVM0fge.jpg",
+        "source_status_id_str": "1861546237809365399",
+        "source_user_id_str": "1658863867907194882",
+        "type": "video",
+        "url": "https://t.co/6YZUIst6Vs",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxNjU4ODYzODY3OTA3MTk0ODgy",
+                "rest_id": "1658863867907194882",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "following": false,
+                  "can_dm": false,
+                  "can_media_tag": true,
+                  "created_at": "Wed May 17 16:01:04 +0000 2023",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "The official Twitter home of The @michaeljknowles Show. Streaming Monday-Friday.",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 60,
+                  "followers_count": 41331,
+                  "friends_count": 4,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 120,
+                  "location": "",
+                  "media_count": 1584,
+                  "name": "The Michael Knowles Show",
+                  "normal_followers_count": 41331,
+                  "pinned_tweet_ids_str": [
+                    "1842565410077745395"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1658863867907194882/1692624697",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1693616844878270464/t-1oKhek_normal.png",
+                  "profile_interstitial_type": "",
+                  "screen_name": "MKnowlesShow",
+                  "statuses_count": 2576,
+                  "translator_type": "none",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "tipjar_settings": {}
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1920,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1920,
+          "width": 1080,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 57690,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1861545656000667648/pu/pl/QHSLzv7P32f5g2YF.m3u8?tag=12&v=a81"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861545656000667648/pu/vid/avc1/320x568/b_LGFk0cHbtWYF1X.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861545656000667648/pu/vid/avc1/480x852/v4KWgc9Zpp2kCdo7.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861545656000667648/pu/vid/avc1/720x1280/H-bUYnlGaTnMV2o7.mp4?tag=12"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "7_1861545656000667648"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861592956735565966",
+    "name": "سكاي نيوز عربية",
+    "username": "skynewsarabia",
+    "text": "وفق التوقيت المحلي في لبنان وإسرائيل.. وقف إطلاق النار يدخل حيز التنفيذ بين الجانبين الآن |#سكاي_مباشر  https://t.co/aH1oYt6DFt",
+    "createdAt": "Wed Nov 27 02:08:42 +0000 2024",
+    "userId": "216289357",
+    "conversationId": "1861592956735565966",
+    "hashtags": [
+      {
+        "indices": [
+          91,
+          102
+        ],
+        "text": "سكاي_مباشر"
+      }
+    ],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/broadcasts/1…",
+        "expanded_url": "https://x.com/i/broadcasts/1DXxydabRBPJM",
+        "url": "https://t.co/aH1oYt6DFt",
+        "indices": [
+          104,
+          127
+        ]
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "1861373255434592624",
+    "name": "Inzi Nasir",
+    "username": "InziNasir",
+    "text": "یہ اے کے 47 نہیں سنائپر ہے ۔ بیغیرت کس کو مارنا چاہتے تھے !! \n https://t.co/XmCjDbaWqf",
+    "createdAt": "Tue Nov 26 11:35:41 +0000 2024",
+    "userId": "621756267",
+    "conversationId": "1861373255434592624",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/XmCjDbaWqf",
+        "expanded_url": "https://x.com/Afnan9PTI/status/1861371426298528033/video/1",
+        "id_str": "1861371231519547395",
+        "indices": [
+          63,
+          86
+        ],
+        "media_key": "13_1861371231519547395",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861371231519547395/img/x4g2sWuszRySh1-J.jpg",
+        "source_status_id_str": "1861371426298528033",
+        "source_user_id_str": "1128963002059956230",
+        "type": "video",
+        "url": "https://t.co/XmCjDbaWqf",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxMTI4OTYzMDAyMDU5OTU2MjMw",
+                "rest_id": "1128963002059956230",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "following": false,
+                  "can_dm": true,
+                  "can_media_tag": true,
+                  "created_at": "Thu May 16 09:58:49 +0000 2019",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "Mind Over matter. I don’t mind and thay don’t matter..✌️",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "youtube.com/channel/UCkhtR…",
+                          "expanded_url": "https://youtube.com/channel/UCkhtRQ1nB8OnsMEoh_FfeSw",
+                          "url": "https://t.co/tOpsmU7zw9",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 212107,
+                  "followers_count": 5736,
+                  "friends_count": 2492,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 1,
+                  "location": "Islamabad, Pakistan",
+                  "media_count": 1664,
+                  "name": "Afnan PTI",
+                  "normal_followers_count": 5736,
+                  "pinned_tweet_ids_str": [
+                    "1843212933528186972"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128963002059956230/1684941756",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1830294392751403008/G9rKE4mC_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "Afnan9PTI",
+                  "statuses_count": 18242,
+                  "translator_type": "none",
+                  "url": "https://t.co/tOpsmU7zw9",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "professional": {
+                  "rest_id": "1503987320944570373",
+                  "professional_type": "Creator",
+                  "category": [
+                    {
+                      "id": 934,
+                      "name": "Social Media Influencer",
+                      "icon_name": "IconBriefcaseStroke"
+                    }
+                  ]
+                },
+                "tipjar_settings": {}
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 29378,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861371231519547395/pl/wOmq-V4PW11iDsgn.m3u8?tag=16&v=f1d"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861371231519547395/vid/avc1/480x270/Q2gbihB7pHmjpt20.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861371231519547395/vid/avc1/640x360/WlUqxelskfc6AJ64.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861371231519547395/vid/avc1/1280x720/_SAv5yP78lvtb5uO.mp4?tag=16"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861371231519547395/vid/avc1/1920x1080/wA9cjFZdwOkiYAkH.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861371231519547395"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861722127960797516",
+    "name": "Dubai Policeشرطة دبي",
+    "username": "DubaiPoliceHQ",
+    "text": "In a rapidly changing world, we believe in adopting innovative strategies that use analytical tools to anticipate challenges and seize opportunities as we strive for a sustainable future. Here’s a glimpse of the highlights from the #Resilience Forum for university and college… https://t.co/iHKVgx97Uh",
+    "createdAt": "Wed Nov 27 10:41:59 +0000 2024",
+    "userId": "193194851",
+    "conversationId": "1861722127960797516",
+    "hashtags": [
+      {
+        "indices": [
+          232,
+          243
+        ],
+        "text": "Resilience"
+      }
+    ],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/iHKVgx97Uh",
+        "expanded_url": "https://x.com/DubaiPoliceHQ/status/1861722127960797516/video/1",
+        "id_str": "1861721880681496576",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "13_1861721880681496576",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861721880681496576/img/zTzX_a1JoHDeisnz.jpg",
+        "type": "video",
+        "url": "https://t.co/iHKVgx97Uh",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 73960,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861721880681496576/pl/ENR7825mWngR3iYu.m3u8?tag=16"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861721880681496576/vid/avc1/480x270/4ysSGGYQbbWSaWyU.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861721880681496576/vid/avc1/640x360/tGXCtjITiFnCEtPp.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861721880681496576/vid/avc1/1280x720/akFupavaTOy1ajzn.mp4?tag=16"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861721880681496576/vid/avc1/1920x1080/UpMnYtZ1SWAl493c.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861721880681496576"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861299890254389462",
+    "name": "سالم بن تميم الريامي",
+    "username": "bin_tamim_salim",
+    "text": "أولى طائرات #طيران_الإمارات طراز #الإيرباص #A350 تسجيل A6-EXA لحظة وصولها إلى مطار #دبي الدولي فجر اليوم الثلاثاء 😍🇦🇪 https://t.co/QyASeqWAW3",
+    "createdAt": "Tue Nov 26 06:44:09 +0000 2024",
+    "userId": "336195291",
+    "conversationId": "1861299890254389462",
+    "hashtags": [
+      {
+        "indices": [
+          12,
+          27
+        ],
+        "text": "طيران_الإمارات"
+      },
+      {
+        "indices": [
+          33,
+          42
+        ],
+        "text": "الإيرباص"
+      },
+      {
+        "indices": [
+          43,
+          48
+        ],
+        "text": "A350"
+      },
+      {
+        "indices": [
+          83,
+          87
+        ],
+        "text": "دبي"
+      }
+    ],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/QyASeqWAW3",
+        "expanded_url": "https://x.com/bin_tamim_salim/status/1861299890254389462/video/1",
+        "id_str": "1861299837393588224",
+        "indices": [
+          118,
+          141
+        ],
+        "media_key": "7_1861299837393588224",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1861299837393588224/pu/img/4P4gBaetjKsPCwyD.jpg",
+        "type": "video",
+        "url": "https://t.co/QyASeqWAW3",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 758,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 758,
+            "w": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 646,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 758,
+          "width": 720,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            360,
+            379
+          ],
+          "duration_millis": 25480,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1861299837393588224/pu/pl/rodnGjh80cwGyTtd.m3u8?tag=12&v=06a"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861299837393588224/pu/vid/avc1/320x336/rBitH4AioIeVB4Aq.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861299837393588224/pu/vid/avc1/480x504/Dei4-C5CR5XSpLou.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861299837393588224/pu/vid/avc1/720x758/tI9R-GZ3vxhGkj_C.mp4?tag=12"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "7_1861299837393588224"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861352305750167806",
+    "name": "سعيد بن طحنون بن محمد آل نهيان",
+    "username": "saeedbintahnoun",
+    "text": "هل شفتو حاكـماً في الـكون كله \nمن مطالع شمسها لين المغايب \nتـلفــونه عــند شــعبه يتـصــله \nمايـفرق بيــن طفل وبين شايب \n#محمد_بن_زايد  \n@MohamedBinZayed https://t.co/2n4oNiqoDf",
+    "createdAt": "Tue Nov 26 10:12:26 +0000 2024",
+    "userId": "533166521",
+    "conversationId": "1861352305750167806",
+    "hashtags": [
+      {
+        "indices": [
+          121,
+          134
+        ],
+        "text": "محمد_بن_زايد"
+      }
+    ],
+    "mentions": [
+      {
+        "id_str": "471010707",
+        "name": "محمد بن زايد",
+        "screen_name": "MohamedBinZayed",
+        "indices": [
+          137,
+          153
+        ]
+      }
+    ],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/2n4oNiqoDf",
+        "expanded_url": "https://x.com/saeedbintahnoun/status/1861352305750167806/video/1",
+        "id_str": "1861352028435337216",
+        "indices": [
+          154,
+          177
+        ],
+        "media_key": "13_1861352028435337216",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861352028435337216/img/NOtP3Pi7DVn4sM9D.jpg",
+        "type": "video",
+        "url": "https://t.co/2n4oNiqoDf",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1920,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1920,
+          "width": 1080,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 138505,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861352028435337216/pl/biyGtI7EHjhIE4NR.m3u8?tag=16&v=49d"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861352028435337216/vid/avc1/320x568/UjiBZYmHUyGVEfMi.mp4?tag=16"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861352028435337216/vid/avc1/480x852/M8hYfJP73qG-M-Pi.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861352028435337216/vid/avc1/720x1280/zJix2zjAFkq93Ltv.mp4?tag=16"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861352028435337216/vid/avc1/1080x1920/WAzI14dNEo8C-mjz.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861352028435337216"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861044313330753692",
+    "name": "Hamdan bin Mohammed",
+    "username": "HamdanMohammed",
+    "text": "في إطار متابعتنا المستمرة لجهود مختلف الدوائر والجهات الحكومية لترسيخ مكانة دبي وريادتها العالمية، اطّلعت على مستجدات العمل في دائرة الأراضي والأملاك خلال لقاء مع مروان بن غليطة، مدير عام الدائرة، واستعرضنا مبادرات ومشاريع استراتيجية دبي للقطاع العقاري 2033، التي تستهدف تعزيز… https://t.co/wpEyeIH7Tt",
+    "createdAt": "Mon Nov 25 13:48:35 +0000 2024",
+    "userId": "118629205",
+    "conversationId": "1861044313330753692",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [
+      {
+        "display_url": "pic.x.com/wpEyeIH7Tt",
+        "expanded_url": "https://x.com/HamdanMohammed/status/1861044313330753692/photo/1",
+        "id_str": "1861044304266833920",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "3_1861044304266833920",
+        "media_url_https": "https://pbs.twimg.com/media/GdPB7zsWsAArDQc.jpg",
+        "type": "photo",
+        "url": "https://t.co/wpEyeIH7Tt",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 176,
+                "y": 524,
+                "h": 150,
+                "w": 150
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 103,
+                "y": 307,
+                "h": 87,
+                "w": 87
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 58,
+                "y": 173,
+                "h": 49,
+                "w": 49
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 176,
+                "y": 524,
+                "h": 150,
+                "w": 150
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1364,
+            "w": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 799,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 453,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1364,
+          "width": 2048,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 92,
+              "w": 2048,
+              "h": 1147
+            },
+            {
+              "x": 495,
+              "y": 0,
+              "w": 1364,
+              "h": 1364
+            },
+            {
+              "x": 579,
+              "y": 0,
+              "w": 1196,
+              "h": 1364
+            },
+            {
+              "x": 836,
+              "y": 0,
+              "w": 682,
+              "h": 1364
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 2048,
+              "h": 1364
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861044304266833920"
+          }
+        }
+      }
+    ],
+    "thread": [],
+    "urls": [],
+    "videos": []
+  },
+  {
+    "id": "1861519554276467007",
+    "name": "أيار | Ayar",
+    "username": "Ayar2030",
+    "text": "انا وش سمعت ي ساتر الله لا يفجع بنات المسلمين في أزواجهمhttps://t.co/wmTDa2CNCr",
+    "createdAt": "Tue Nov 26 21:17:01 +0000 2024",
+    "userId": "1269719460",
+    "conversationId": "1861519554276467007",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/wmTDa2CNCr",
+        "expanded_url": "https://x.com/M_ttow/status/1861459718780092568/video/1",
+        "id_str": "1861459630385225728",
+        "indices": [
+          56,
+          79
+        ],
+        "media_key": "13_1861459630385225728",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861459630385225728/img/Wft2h34BokY6ICiB.jpg",
+        "source_status_id_str": "1861459718780092568",
+        "source_user_id_str": "565907943",
+        "type": "video",
+        "url": "https://t.co/wmTDa2CNCr",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjo1NjU5MDc5NDM=",
+                "rest_id": "565907943",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "following": false,
+                  "can_dm": true,
+                  "can_media_tag": true,
+                  "created_at": "Sat Apr 28 23:38:15 +0000 2012",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "موثوق 549508 .. للإعلان واتساب https://t.co/a9ZSvvfOTB",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "wh.ms/966530980408",
+                          "expanded_url": "https://wh.ms/966530980408",
+                          "url": "https://t.co/a9ZSvvfOTB",
+                          "indices": [
+                            31,
+                            54
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 12850,
+                  "followers_count": 149001,
+                  "friends_count": 499,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 180,
+                  "location": "الرياض .. القصيم",
+                  "media_count": 10504,
+                  "name": "مُنيرة آل إبراهيم 🇸🇦",
+                  "normal_followers_count": 149001,
+                  "pinned_tweet_ids_str": [
+                    "1812649537174999200"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/565907943/1679017487",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1572747161229467648/f2iUUZSL_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "M_ttow",
+                  "statuses_count": 69370,
+                  "translator_type": "none",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "professional": {
+                  "rest_id": "1519527729753989120",
+                  "professional_type": "Creator",
+                  "category": []
+                },
+                "tipjar_settings": {
+                  "is_enabled": true
+                },
+                "super_follow_eligible": true
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 576,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1024,
+            "w": 576,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1024,
+          "width": 576,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 289809,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861459630385225728/pl/FHAi5TTi-5Ro7Pkq.m3u8?tag=16&v=f57"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861459630385225728/vid/avc1/320x568/4T8eGhcQgVZnYDT7.mp4?tag=16"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861459630385225728/vid/avc1/480x852/lrrR3nhkeHEn4Isv.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861459630385225728/vid/avc1/576x1024/pAxFUQu-I5bo7EYw.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861459630385225728"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861661005446619163",
+    "name": "امنة الحمادي",
+    "username": "amna_alhammadii",
+    "text": "الإعلامي الأمريكي ستيف هارفي في كلمة مؤثرة لطلبة الجامعة القاسمية في الشارقة : من الذي يمنحكم تعليماً مجانياً ويوفر لكم السكن بالمجان ويدفع لكم رواتب شهرية .. إنه #حاكم_الشارقة .. في أمريكا لا نحصل على شيء بالمجان .\n#هنا_الامارات \n#الامارات  #الشارقة \n\n https://t.co/4z2ctW2vqA",
+    "createdAt": "Wed Nov 27 06:39:06 +0000 2024",
+    "userId": "431679294",
+    "conversationId": "1861661005446619163",
+    "hashtags": [
+      {
+        "indices": [
+          163,
+          176
+        ],
+        "text": "حاكم_الشارقة"
+      },
+      {
+        "indices": [
+          216,
+          229
+        ],
+        "text": "هنا_الامارات"
+      },
+      {
+        "indices": [
+          231,
+          240
+        ],
+        "text": "الامارات"
+      },
+      {
+        "indices": [
+          242,
+          250
+        ],
+        "text": "الشارقة"
+      }
+    ],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/4z2ctW2vqA",
+        "expanded_url": "https://x.com/Sharjahnews/status/1861458766480146784/video/1",
+        "id_str": "1861458505212760065",
+        "indices": [
+          254,
+          277
+        ],
+        "media_key": "13_1861458505212760065",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861458505212760065/img/inPuVQyJHXfMVkF4.jpg",
+        "source_status_id_str": "1861458766480146784",
+        "source_user_id_str": "325548752",
+        "type": "video",
+        "url": "https://t.co/4z2ctW2vqA",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjozMjU1NDg3NTI=",
+                "rest_id": "325548752",
+                "affiliates_highlighted_label": {
+                  "label": {
+                    "url": {
+                      "url": "https://twitter.com/SharjahTV",
+                      "urlType": "DeepLink"
+                    },
+                    "badge": {
+                      "url": "https://pbs.twimg.com/profile_images/1095054821743316992/TRnTowkH_bigger.jpg"
+                    },
+                    "description": "تلفزيون الشارقة",
+                    "userLabelType": "BusinessLabel",
+                    "userLabelDisplayType": "Badge"
+                  }
+                },
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "profile_image_shape": "Square",
+                "legacy": {
+                  "following": false,
+                  "can_dm": false,
+                  "can_media_tag": true,
+                  "created_at": "Tue Jun 28 13:44:44 +0000 2011",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "الحساب الرسمي للأخبار من هيئة الشارقة للإذاعة والتلفزيون",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "sba.net.ae/ar",
+                          "expanded_url": "https://sba.net.ae/ar",
+                          "url": "https://t.co/cFIAXWZm8A",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 541,
+                  "followers_count": 260243,
+                  "friends_count": 7,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 305,
+                  "location": "الإمارات - الشارقة",
+                  "media_count": 97560,
+                  "name": "الشارقة للأخبار",
+                  "normal_followers_count": 260243,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/325548752/1629718369",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1467039779611197442/yvXqwrvr_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "Sharjahnews",
+                  "statuses_count": 129791,
+                  "translator_type": "none",
+                  "url": "https://t.co/cFIAXWZm8A",
+                  "verified": false,
+                  "verified_type": "Government",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "tipjar_settings": {}
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1920,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1920,
+          "width": 1080,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 81783,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861458505212760065/pl/Y8HtGt1x4a2z_YW_.m3u8?tag=14&v=bed"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861458505212760065/vid/avc1/320x568/H-RpzFzooddNb0D-.mp4?tag=14"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861458505212760065/vid/avc1/480x852/f6QoxjiMdUUZvv1Z.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861458505212760065/vid/avc1/720x1280/ndOBMIpyRiN_A5Lk.mp4?tag=14"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861458505212760065"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861685825559236713",
+    "name": "شبكة أبوظبي",
+    "username": "NET_AD",
+    "text": "صاحب السمو الشيخ حميد بن راشد النعيمي عضو المجلس الأعلى حاكم عجمان -حفظه الله- يشيد بإنجازات وجهود هيئة الأعمال الخيرية العالمية خلال 40 عام.\n\nتجاوز حجم مشاريعها 5,3 مليار درهم.\n\nشكراً لعطائكم يا أصحاب الأيادي البيضاء، ونسأل الله أن يجعل ما قدمتم في موازين حسناتكم. https://t.co/gxQUk7xiFm",
+    "createdAt": "Wed Nov 27 08:17:43 +0000 2024",
+    "userId": "482808822",
+    "conversationId": "1861685825559236713",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/gxQUk7xiFm",
+        "expanded_url": "https://x.com/NET_AD/status/1861685825559236713/video/1",
+        "id_str": "1861685615399522304",
+        "indices": [
+          266,
+          289
+        ],
+        "media_key": "13_1861685615399522304",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861685615399522304/img/XNeDBkGBvQe3TYTJ.jpg",
+        "type": "video",
+        "url": "https://t.co/gxQUk7xiFm",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 900,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 900,
+            "w": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 900,
+          "width": 720,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            4,
+            5
+          ],
+          "duration_millis": 105493,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861685615399522304/pl/ch8WZ2j30MZKUy8j.m3u8?tag=16&v=d32"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861685615399522304/vid/avc1/320x400/Zgv1luZ1ajNzfStf.mp4?tag=16"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861685615399522304/vid/avc1/480x600/C4GRUnchriyEJxrh.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861685615399522304/vid/avc1/720x900/zVvQYI3O_Oog-cRn.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861685615399522304"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861468879123554714",
+    "name": "محمد بن سلمان بن عبد العزيز (Informal)",
+    "username": "HRHMBNSALMAAN",
+    "text": "https://t.co/t2SvI6Mste",
+    "createdAt": "Tue Nov 26 17:55:39 +0000 2024",
+    "userId": "985976864",
+    "conversationId": "1861468879123554714",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [
+      {
+        "display_url": "pic.x.com/t2SvI6Mste",
+        "expanded_url": "https://x.com/HRHMBNSALMAAN/status/1861468879123554714/photo/1",
+        "id_str": "1861468872097832960",
+        "indices": [
+          0,
+          23
+        ],
+        "media_key": "3_1861468872097832960",
+        "media_url_https": "https://pbs.twimg.com/media/GdVEE6HWoAA1OKb.jpg",
+        "type": "photo",
+        "url": "https://t.co/t2SvI6Mste",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1125,
+            "w": 832,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1125,
+            "w": 832,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 503,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1125,
+          "width": 832,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 75,
+              "w": 832,
+              "h": 466
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 832,
+              "h": 832
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 832,
+              "h": 948
+            },
+            {
+              "x": 84,
+              "y": 0,
+              "w": 563,
+              "h": 1125
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 832,
+              "h": 1125
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861468872097832960"
+          }
+        }
+      }
+    ],
+    "thread": [],
+    "urls": [],
+    "videos": []
+  },
+  {
+    "id": "1861458766480146784",
+    "name": "الشارقة للأخبار",
+    "username": "Sharjahnews",
+    "text": "الإعلامي الأمريكي ستيف هارفي في كلمة مؤثرة لطلبة الجامعة القاسمية في الشارقة : من الذي يمنحكم تعليماً مجانياً ويوفر لكم السكن بالمجان ويدفع لكم رواتب شهرية .. إنه #حاكم_الشارقة .. في أمريكا لا نحصل على شيء بالمجان .\n#الشارقة_للأخبار #الإمارات #الشارقة \n@AlQasimiaUni https://t.co/1b3oZFFf0d",
+    "createdAt": "Tue Nov 26 17:15:28 +0000 2024",
+    "userId": "325548752",
+    "conversationId": "1861458766480146784",
+    "hashtags": [
+      {
+        "indices": [
+          163,
+          176
+        ],
+        "text": "حاكم_الشارقة"
+      },
+      {
+        "indices": [
+          216,
+          232
+        ],
+        "text": "الشارقة_للأخبار"
+      },
+      {
+        "indices": [
+          233,
+          242
+        ],
+        "text": "الإمارات"
+      },
+      {
+        "indices": [
+          243,
+          251
+        ],
+        "text": "الشارقة"
+      }
+    ],
+    "mentions": [
+      {
+        "id_str": "3060780560",
+        "name": "الجامعة القاسمية",
+        "screen_name": "AlQasimiaUni",
+        "indices": [
+          253,
+          266
+        ]
+      }
+    ],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/1b3oZFFf0d",
+        "expanded_url": "https://x.com/Sharjahnews/status/1861458766480146784/video/1",
+        "id_str": "1861458505212760065",
+        "indices": [
+          267,
+          290
+        ],
+        "media_key": "13_1861458505212760065",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861458505212760065/img/inPuVQyJHXfMVkF4.jpg",
+        "type": "video",
+        "url": "https://t.co/1b3oZFFf0d",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1920,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1920,
+          "width": 1080,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 81783,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861458505212760065/pl/Y8HtGt1x4a2z_YW_.m3u8?tag=14&v=bed"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861458505212760065/vid/avc1/320x568/H-RpzFzooddNb0D-.mp4?tag=14"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861458505212760065/vid/avc1/480x852/f6QoxjiMdUUZvv1Z.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861458505212760065/vid/avc1/720x1280/ndOBMIpyRiN_A5Lk.mp4?tag=14"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861458505212760065"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861383580288524469",
+    "name": "Sultan AlNeyadi",
+    "username": "Astro_Alneyadi",
+    "text": "وعي الإنسان الإماراتي صمام أمان الوطن، وثوابتنا الثلاثة - الله، الوطن، رئيس الدولة - هي نهجنا الدائم، وبالفخر والوعي والبذل نؤمّن مستقبلاً مشرقاً لأجيالنا، مستلهمين العزيمة وملتزمين بـ وصية وطن نحميه في البر والبحر والجو وحتى الفضاء. https://t.co/gIIfH92IIS",
+    "createdAt": "Tue Nov 26 12:16:43 +0000 2024",
+    "userId": "1036612286872465409",
+    "conversationId": "1861383580288524469",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/gIIfH92IIS",
+        "expanded_url": "https://x.com/Astro_Alneyadi/status/1861383580288524469/video/1",
+        "id_str": "1861383254047121408",
+        "indices": [
+          234,
+          257
+        ],
+        "media_key": "13_1861383254047121408",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861383254047121408/img/P7hF13S5cJkumlhF.jpg",
+        "type": "video",
+        "url": "https://t.co/gIIfH92IIS",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1920,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1920,
+          "width": 1080,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 75875,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861383254047121408/pl/zW6nj7RyLuj2drR-.m3u8?tag=14&v=15f"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861383254047121408/vid/avc1/320x568/VQgs0qBXQKOOT8VX.mp4?tag=14"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861383254047121408/vid/avc1/480x852/JlGxgSk_1p47e_pV.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861383254047121408/vid/avc1/720x1280/xiGaEXgmdQ2DXJtg.mp4?tag=14"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861383254047121408"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861474318170910952",
+    "name": "Emiratesroyalfamily",
+    "username": "uaeroyalfamily",
+    "text": "#تواضع_شيوخنا 🇦🇪🤍\n\nلقاء عفوي لسمو الشيخ ذياب بن محمد بن زايد آل نهيان مع أحد أطفال مجلة ماجد في الكونغرس العالمي للإعلام. https://t.co/ITUCa6i0TJ",
+    "createdAt": "Tue Nov 26 18:17:16 +0000 2024",
+    "userId": "996655788",
+    "conversationId": "1861474318170910952",
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "text": "تواضع_شيوخنا"
+      }
+    ],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/ITUCa6i0TJ",
+        "expanded_url": "https://x.com/uaeroyalfamily/status/1861474318170910952/video/1",
+        "id_str": "1861474170929831937",
+        "indices": [
+          122,
+          145
+        ],
+        "media_key": "13_1861474170929831937",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861474170929831937/img/CFBq-Lu1WkR2CAVD.jpg",
+        "type": "video",
+        "url": "https://t.co/ITUCa6i0TJ",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 674,
+            "w": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 632,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 358,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 674,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            640,
+            337
+          ],
+          "duration_millis": 70840,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861474170929831937/pl/oAroEkZ3-YAhh1Yo.m3u8?tag=16&v=89b"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861474170929831937/vid/avc1/512x270/-WajmDyuaGa9_yAr.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861474170929831937/vid/avc1/682x360/uEKsjP_w1Yg7LVI_.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861474170929831937/vid/avc1/1280x674/PxDl8Jx4kZwyg-Py.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861474170929831937"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861491941583581273",
+    "name": "Latifa MR Al Maktoum",
+    "username": "LatifaMRM",
+    "text": "خلال مشاركتي في فعاليات الدورة الثالثة من منتدى المرأة العالمي الذي تنظمه مؤسسة دبي للمرأة تحت شعار \"قوة التأثير\" أردت أن أسلط الضوء على إنجازات المرأة العربية وأن أروي قصتها كما شهدناها.. لأنها تستحق أن تُروى.. فالمرأة العربية في مجتمعنا مثال الإبداع والتميز.. وهي لا تقف على… https://t.co/LLpRaoMYvH",
+    "createdAt": "Tue Nov 26 19:27:18 +0000 2024",
+    "userId": "51271759",
+    "conversationId": "1861491941583581273",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/LLpRaoMYvH",
+        "expanded_url": "https://x.com/LatifaMRM/status/1861491941583581273/video/1",
+        "id_str": "1861490814112731136",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "13_1861490814112731136",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861490814112731136/img/A0yEULcdF-mGw7B6.jpg",
+        "type": "video",
+        "url": "https://t.co/LLpRaoMYvH",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 118080,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861490814112731136/pl/YME_Sx6lKeGr1X07.m3u8?tag=16&v=78c"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861490814112731136/vid/avc1/480x270/G3-5TWHBZ6bo3Uro.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861490814112731136/vid/avc1/640x360/DaTWZnZMCzgga15y.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861490814112731136/vid/avc1/1280x720/fo2wjWHb6db25_YR.mp4?tag=16"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861490814112731136/vid/avc1/1920x1080/lkeT3oPaICyv8Kfr.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861490814112731136"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861248988265226412",
+    "name": "خڸـ،ـۑفـ،ـة",
+    "username": "alain74487",
+    "text": "الله يرحمك و الله يغفرلك طيب الله ثراك اللهم اسكنه الفردوس https://t.co/0gGlrpu0kz",
+    "createdAt": "Tue Nov 26 03:21:53 +0000 2024",
+    "userId": "566551128",
+    "conversationId": "1861248988265226412",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [
+      {
+        "display_url": "pic.x.com/0gGlrpu0kz",
+        "expanded_url": "https://x.com/alain74487/status/1861248988265226412/photo/1",
+        "id_str": "1861248979716964352",
+        "indices": [
+          59,
+          82
+        ],
+        "media_key": "3_1861248979716964352",
+        "media_url_https": "https://pbs.twimg.com/media/GdR8FfKWgAA2A2J.jpg",
+        "type": "photo",
+        "url": "https://t.co/0gGlrpu0kz",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 499,
+                "y": 1090,
+                "h": 52,
+                "w": 52
+              },
+              {
+                "x": 264,
+                "y": 157,
+                "h": 570,
+                "w": 570
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 491,
+                "y": 1072,
+                "h": 51,
+                "w": 51
+              },
+              {
+                "x": 259,
+                "y": 154,
+                "h": 560,
+                "w": 560
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 278,
+                "y": 608,
+                "h": 29,
+                "w": 29
+              },
+              {
+                "x": 147,
+                "y": 87,
+                "h": 317,
+                "w": 317
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 499,
+                "y": 1090,
+                "h": 52,
+                "w": 52
+              },
+              {
+                "x": 264,
+                "y": 157,
+                "h": 570,
+                "w": 570
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1219,
+            "w": 1133,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 1115,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 632,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1219,
+          "width": 1133,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 79,
+              "w": 1133,
+              "h": 634
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1133,
+              "h": 1133
+            },
+            {
+              "x": 64,
+              "y": 0,
+              "w": 1069,
+              "h": 1219
+            },
+            {
+              "x": 334,
+              "y": 0,
+              "w": 610,
+              "h": 1219
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1133,
+              "h": 1219
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861248979716964352"
+          }
+        }
+      }
+    ],
+    "thread": [],
+    "urls": [],
+    "videos": []
+  },
+  {
+    "id": "1861483296372191704",
+    "name": "وزارة الدفاع |MOD UAE",
+    "username": "modgovae",
+    "text": "تتعاقب الأيام والشهور والأعوام، وتبقى في تاريخ الأمم، أيامٌ خالدةٌ، تظل حاضرة في الوجدان.\n“الخدمة#الوطنية” علامة مضيئة ومحطة فارقة ونقطة تحول مهمة في دولة الاتحاد.\n\n#وقفة_ولاء\n #الخدمة_الوطنية https://t.co/g0azqdB4eK",
+    "createdAt": "Tue Nov 26 18:52:57 +0000 2024",
+    "userId": "1257985088517746691",
+    "conversationId": "1861483296372191704",
+    "hashtags": [
+      {
+        "indices": [
+          165,
+          175
+        ],
+        "text": "وقفة_ولاء"
+      },
+      {
+        "indices": [
+          177,
+          192
+        ],
+        "text": "الخدمة_الوطنية"
+      }
+    ],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/g0azqdB4eK",
+        "expanded_url": "https://x.com/modgovae/status/1861483296372191704/video/1",
+        "id_str": "1861483147830992896",
+        "indices": [
+          193,
+          216
+        ],
+        "media_key": "13_1861483147830992896",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861483147830992896/img/IBNMv1IFQr0BiQOy.jpg",
+        "type": "video",
+        "url": "https://t.co/g0azqdB4eK",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 18685,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861483147830992896/pl/jXSKRjZKWdwbRiLH.m3u8?tag=14&v=615"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861483147830992896/vid/avc1/480x270/GoZ1Lgqf2tCFwwEB.mp4?tag=14"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861483147830992896/vid/avc1/640x360/VlrYMAAkURK8fI8d.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861483147830992896/vid/avc1/1280x720/7_Flk3Fu9G9gTyYi.mp4?tag=14"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861483147830992896"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861665629033402505",
+    "name": "Group Fazza | قروب فزاع",
+    "username": "groupfazza",
+    "text": "محمد بن راشد يطّلع خلال زيارة لمطار #دبي الدولي على أحدث الطائرات من طراز \"إيرباص A350\" المنضمة إلى أسطول \"طيران الإمارات\" والتي تسلمتها الناقلة الجوية إيذاناً بدخولها إلى الخدمة قريباً. https://t.co/JAfjVJ7DC2",
+    "createdAt": "Wed Nov 27 06:57:28 +0000 2024",
+    "userId": "2475365846",
+    "conversationId": "1861665629033402505",
+    "hashtags": [
+      {
+        "indices": [
+          36,
+          40
+        ],
+        "text": "دبي"
+      }
+    ],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/JAfjVJ7DC2",
+        "expanded_url": "https://x.com/groupfazza/status/1861665629033402505/video/1",
+        "id_str": "1861665564428574720",
+        "indices": [
+          187,
+          210
+        ],
+        "media_key": "13_1861665564428574720",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861665564428574720/img/2vVzvCjSVptS8IyC.jpg",
+        "type": "video",
+        "url": "https://t.co/JAfjVJ7DC2",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1280,
+          "width": 720,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 47333,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861665564428574720/pl/QHsgzbjnB7naQuVL.m3u8?tag=16"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861665564428574720/vid/avc1/320x568/cAPRW6YCqf5EN9Y7.mp4?tag=16"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861665564428574720/vid/avc1/480x852/Zdgbr_P3hoKVeWhj.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861665564428574720/vid/avc1/720x1280/-k5k4U66C4q0aO6_.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861665564428574720"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861440901802823787",
+    "name": "برق الإمارات",
+    "username": "UAE_BARQ",
+    "text": "حدث عائلي استذكره #رئيس_الدولة أثناء زيارته لإندونيسيا عام 1988.. ما هو؟\n\n#برق_الإمارات https://t.co/wviMpStXLX",
+    "createdAt": "Tue Nov 26 16:04:29 +0000 2024",
+    "userId": "251826832",
+    "conversationId": "1861440901802823787",
+    "hashtags": [
+      {
+        "indices": [
+          18,
+          30
+        ],
+        "text": "رئيس_الدولة"
+      },
+      {
+        "indices": [
+          74,
+          87
+        ],
+        "text": "برق_الإمارات"
+      }
+    ],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/wviMpStXLX",
+        "expanded_url": "https://x.com/UAE_BARQ/status/1861440901802823787/video/1",
+        "id_str": "1861440828842921984",
+        "indices": [
+          88,
+          111
+        ],
+        "media_key": "13_1861440828842921984",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861440828842921984/img/M6nSBDBzCwNSp8jx.jpg",
+        "type": "video",
+        "url": "https://t.co/wviMpStXLX",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 720,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 720,
+            "w": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 720,
+          "width": 720,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 41866,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861440828842921984/pl/XuoQa_fYG2nNskdP.m3u8?tag=16"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861440828842921984/vid/avc1/320x320/-hlVfRy826qahE03.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861440828842921984/vid/avc1/540x540/WJ9us4zI-e3EHVGe.mp4?tag=16"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861440828842921984/vid/avc1/720x720/XZ-0xdTIy5l-uyJt.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861440828842921984"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861374452975403386",
+    "name": "فراس الشدادي",
+    "username": "1G__1",
+    "text": "قصة اتصال الملك سلمان أطال الله عمره برئيس مجلس الأمة الكويتي مرزوق الغانم وهذا بعد أن دافع مرزوق عن المملكة ضد الايرانيين في مؤتمر لرؤساء البرلمانات بالعراق\n\nيقول رئيس مجلس الأمة الكويتي مرزوق الغانم: \"خلال المسافة التي تفصل مقعد الكويت عن المنصة، كنت أردد: ربي اشرح لي صدري ويسر… https://t.co/taubHU7mF8",
+    "createdAt": "Tue Nov 26 11:40:26 +0000 2024",
+    "userId": "4512670343",
+    "conversationId": "1861374452975403386",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [
+      {
+        "display_url": "pic.x.com/taubHU7mF8",
+        "expanded_url": "https://x.com/1G__1/status/1861374452975403386/photo/1",
+        "id_str": "1861374446956638208",
+        "indices": [
+          282,
+          305
+        ],
+        "media_key": "3_1861374446956638208",
+        "media_url_https": "https://pbs.twimg.com/media/GdTuMpDW8AAkkMX.jpg",
+        "type": "photo",
+        "url": "https://t.co/taubHU7mF8",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 330,
+                "y": 372,
+                "h": 123,
+                "w": 123
+              },
+              {
+                "x": 890,
+                "y": 175,
+                "h": 367,
+                "w": 367
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 309,
+                "y": 348,
+                "h": 115,
+                "w": 115
+              },
+              {
+                "x": 834,
+                "y": 164,
+                "h": 344,
+                "w": 344
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 175,
+                "y": 197,
+                "h": 65,
+                "w": 65
+              },
+              {
+                "x": 472,
+                "y": 92,
+                "h": 194,
+                "w": 194
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 330,
+                "y": 372,
+                "h": 123,
+                "w": 123
+              },
+              {
+                "x": 890,
+                "y": 175,
+                "h": 367,
+                "w": 367
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 716,
+            "w": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 671,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 380,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 716,
+          "width": 1280,
+          "focus_rects": [
+            {
+              "x": 1,
+              "y": 0,
+              "w": 1279,
+              "h": 716
+            },
+            {
+              "x": 564,
+              "y": 0,
+              "w": 716,
+              "h": 716
+            },
+            {
+              "x": 652,
+              "y": 0,
+              "w": 628,
+              "h": 716
+            },
+            {
+              "x": 877,
+              "y": 0,
+              "w": 358,
+              "h": 716
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1280,
+              "h": 716
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861374446956638208"
+          }
+        }
+      }
+    ],
+    "thread": [],
+    "urls": [],
+    "videos": []
+  },
+  {
+    "id": "1861081468677542317",
+    "name": "سيف بن زايد آل نهيان",
+    "username": "SaifBZayed",
+    "text": "سعدت بلقاء معالي بانشي توشكوفسكي، وزير الداخلية بجمهورية شمال مقدونيا الصديقة، حيث تناولنا مجمل العلاقات الثنائية والتحديات الدولية التي تهم بلدينا الصديقين، وفي إطار هذا اللقاء البنّاء وقعنا مذكرتي تفاهم، الأولى لتعزيز التعاون الأمني في مجالات مكافحة الإرهاب والجرائم المنظمة… https://t.co/M1CqaYXLTB",
+    "createdAt": "Mon Nov 25 16:16:14 +0000 2024",
+    "userId": "2357574121",
+    "conversationId": "1861081468677542317",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/M1CqaYXLTB",
+        "expanded_url": "https://x.com/SaifBZayed/status/1861081468677542317/video/1",
+        "id_str": "1861081280512712704",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "13_1861081280512712704",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861081280512712704/img/4QrxsgTNx52Em6MI.jpg",
+        "type": "video",
+        "url": "https://t.co/M1CqaYXLTB",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 720,
+            "w": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 720,
+          "width": 1280,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 85583,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861081280512712704/pl/0UVXVKuVNrs4zBfV.m3u8?tag=16&v=391"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861081280512712704/vid/avc1/480x270/aeX6lVW0iX8bKruD.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861081280512712704/vid/avc1/640x360/UYLMAP_H7rYnKgWS.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861081280512712704/vid/avc1/1280x720/EkKMKj4Z50gs-laI.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861081280512712704"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861293573921976549",
+    "name": "وزارة الداخلية",
+    "username": "moiuae",
+    "text": "الداخلية توقع مذكرة تفاهم مع إدارة السلامة العامة بولاية تكساس الأمريكية بشأن الاعتراف واستبدال رخص القيادة الصادرة من دولة الإمارات العربية المتحدة وولاية تكساس دون إجراء الاختبار النظري والعملي، بهدف تسهيل تنقل حاملي رخص القيادة من الجانبين أثناء الإقامة أو الزيارة.\nالتفاصيل:… https://t.co/WQavvv1EtM",
+    "createdAt": "Tue Nov 26 06:19:03 +0000 2024",
+    "userId": "56302272",
+    "conversationId": "1861293573921976549",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [
+      {
+        "display_url": "pic.x.com/WQavvv1EtM",
+        "expanded_url": "https://x.com/moiuae/status/1861293573921976549/photo/1",
+        "id_str": "1861293566351335424",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1861293566351335424",
+        "media_url_https": "https://pbs.twimg.com/media/GdSkoxUXYAAZdO-.jpg",
+        "type": "photo",
+        "url": "https://t.co/WQavvv1EtM",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1350,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 960,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1350,
+          "width": 1080,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 676,
+              "w": 1080,
+              "h": 605
+            },
+            {
+              "x": 0,
+              "y": 270,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 119,
+              "w": 1080,
+              "h": 1231
+            },
+            {
+              "x": 101,
+              "y": 0,
+              "w": 675,
+              "h": 1350
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1080,
+              "h": 1350
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861293566351335424"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/WQavvv1EtM",
+        "expanded_url": "https://x.com/moiuae/status/1861293573921976549/photo/1",
+        "id_str": "1861293566363877376",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1861293566363877376",
+        "media_url_https": "https://pbs.twimg.com/media/GdSkoxXWwAAAkgx.jpg",
+        "type": "photo",
+        "url": "https://t.co/WQavvv1EtM",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1350,
+            "w": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 960,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 544,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1350,
+          "width": 1080,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 69,
+              "w": 1080,
+              "h": 605
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1080,
+              "h": 1080
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1080,
+              "h": 1231
+            },
+            {
+              "x": 405,
+              "y": 0,
+              "w": 675,
+              "h": 1350
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1080,
+              "h": 1350
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861293566363877376"
+          }
+        }
+      }
+    ],
+    "thread": [],
+    "urls": [],
+    "videos": []
+  },
+  {
+    "id": "1861451953894564067",
+    "name": "Dubai Policeشرطة دبي",
+    "username": "DubaiPoliceHQ",
+    "text": "Some delivery riders commit violations that endanger their own lives and the lives of others. Remember, staying focused on the road, adhering to traffic rules, and sticking to the mandatory lane are crucial for ensuring everyone’s safety.\n\n#SafeRoadforEveryone \n#RoadSafety https://t.co/Go8Jg51XDs",
+    "createdAt": "Tue Nov 26 16:48:24 +0000 2024",
+    "userId": "193194851",
+    "conversationId": "1861451953894564067",
+    "hashtags": [
+      {
+        "indices": [
+          240,
+          260
+        ],
+        "text": "SafeRoadforEveryone"
+      },
+      {
+        "indices": [
+          262,
+          273
+        ],
+        "text": "RoadSafety"
+      }
+    ],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/Go8Jg51XDs",
+        "expanded_url": "https://x.com/DubaiPoliceHQ/status/1861451953894564067/video/1",
+        "id_str": "1861451866149638144",
+        "indices": [
+          274,
+          297
+        ],
+        "media_key": "13_1861451866149638144",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861451866149638144/img/dnvqG1YWvgJOVwtZ.jpg",
+        "type": "video",
+        "url": "https://t.co/Go8Jg51XDs",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1280,
+          "width": 720,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 47748,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861451866149638144/pl/MPTl38kJGd1f7Fm8.m3u8?tag=16&v=6d4"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861451866149638144/vid/avc1/320x568/PKhwP-XNDqnqc4Lu.mp4?tag=16"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861451866149638144/vid/avc1/480x852/cBuaKYiorBUlOcdQ.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861451866149638144/vid/avc1/720x1280/nzn4F54QAN1QPt1s.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861451866149638144"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861692460411359374",
+    "name": "Aftab Iqbal Fan",
+    "username": "AftabIqbalFan",
+    "text": "خالد خورشید کا پیغام۔۔۔\n\nاللہ کی قسم کھاتا ہوں ایمان کی قسم کھاتا ہوں اپنے ماں باپ کی قسم کھاتا ہوں جس جس نے یہ گولیاں چلائی ہیں ہم پہ جس دن موقع ملا ان کی نسلوں سے بھی بدلہ لیں گے۔\n\nhttps://t.co/xyAUpd7lZL",
+    "createdAt": "Wed Nov 27 08:44:05 +0000 2024",
+    "userId": "1162272062158692352",
+    "conversationId": "1861692460411359374",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/xyAUpd7lZL",
+        "expanded_url": "https://x.com/SaraMirGilgity/status/1861677082658353324/video/1",
+        "id_str": "1861676891565862912",
+        "indices": [
+          183,
+          206
+        ],
+        "media_key": "13_1861676891565862912",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861676891565862912/img/ZUbGtfnQoFA1BigB.jpg",
+        "source_status_id_str": "1861677082658353324",
+        "source_user_id_str": "1514302511951360014",
+        "type": "video",
+        "url": "https://t.co/xyAUpd7lZL",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxNTE0MzAyNTExOTUxMzYwMDE0",
+                "rest_id": "1514302511951360014",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "following": false,
+                  "can_dm": true,
+                  "can_media_tag": false,
+                  "created_at": "Wed Apr 13 18:00:59 +0000 2022",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "Human rights Activist",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 22214,
+                  "followers_count": 228759,
+                  "friends_count": 3360,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 70,
+                  "location": "England",
+                  "media_count": 13967,
+                  "name": "Sara Mir",
+                  "normal_followers_count": 228759,
+                  "pinned_tweet_ids_str": [
+                    "1858149300137607442"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1514302511951360014/1668204343",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1795004809994469377/WUnrlvZN_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "SaraMirGilgity",
+                  "statuses_count": 35142,
+                  "translator_type": "none",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "professional": {
+                  "rest_id": "1590854484493828096",
+                  "professional_type": "Business",
+                  "category": [
+                    {
+                      "id": 934,
+                      "name": "Social Media Influencer",
+                      "icon_name": "IconBriefcaseStroke"
+                    }
+                  ]
+                },
+                "tipjar_settings": {
+                  "is_enabled": true,
+                  "patreon_handle": "sara"
+                }
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 360,
+            "w": 640,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 360,
+            "w": 640,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 360,
+            "w": 640,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 360,
+          "width": 640,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 29200,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861676891565862912/pl/vF-6J5IvuzaX-0y5.m3u8?tag=16&v=c3e"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861676891565862912/vid/avc1/480x270/TiNezh6Zttu-O_q5.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861676891565862912/vid/avc1/640x360/fmFyE2RaKkC5kK2J.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861676891565862912"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861686120527867944",
+    "name": "Saleh Aljasmi|صالح الجسمي",
+    "username": "Salehaljassmi",
+    "text": "بلغوا الحشريين والمتطاولين والحقودين أن ألبان #حياتنا منتج وطني بحت مقره مدينة #العين وأن دولة #الامارات العظمى لديها اكتفاء ذاتي من منتجات الحليب والالبان والاجبان وأنها دولة مصدرة أيضاً لجودة منتجاتها، وهناك عشرات المصانع والمعامل الوطنية في هذا المجال منها مزارع العين وألبان… https://t.co/7vZfAginKx",
+    "createdAt": "Wed Nov 27 08:18:54 +0000 2024",
+    "userId": "1746788525830238208",
+    "conversationId": "1861686120527867944",
+    "hashtags": [
+      {
+        "indices": [
+          46,
+          53
+        ],
+        "text": "حياتنا"
+      },
+      {
+        "indices": [
+          79,
+          85
+        ],
+        "text": "العين"
+      },
+      {
+        "indices": [
+          95,
+          104
+        ],
+        "text": "الامارات"
+      }
+    ],
+    "mentions": [],
+    "photos": [
+      {
+        "display_url": "pic.x.com/7vZfAginKx",
+        "expanded_url": "https://x.com/Salehaljassmi/status/1861686120527867944/photo/1",
+        "id_str": "1861686109845024769",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1861686109845024769",
+        "media_url_https": "https://pbs.twimg.com/media/GdYJpzyXcAEqa8n.jpg",
+        "type": "photo",
+        "url": "https://t.co/7vZfAginKx",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1106,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 648,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 367,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 2048,
+          "width": 1106,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 560,
+              "w": 1106,
+              "h": 619
+            },
+            {
+              "x": 0,
+              "y": 316,
+              "w": 1106,
+              "h": 1106
+            },
+            {
+              "x": 0,
+              "y": 239,
+              "w": 1106,
+              "h": 1261
+            },
+            {
+              "x": 82,
+              "y": 0,
+              "w": 1024,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1106,
+              "h": 2048
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861686109845024769"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/7vZfAginKx",
+        "expanded_url": "https://x.com/Salehaljassmi/status/1861686120527867944/photo/1",
+        "id_str": "1861686109844967424",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1861686109844967424",
+        "media_url_https": "https://pbs.twimg.com/media/GdYJpzyWkAAFrqm.jpg",
+        "type": "photo",
+        "url": "https://t.co/7vZfAginKx",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1317,
+            "w": 1320,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1197,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 678,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1317,
+          "width": 1320,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1320,
+              "h": 739
+            },
+            {
+              "x": 3,
+              "y": 0,
+              "w": 1317,
+              "h": 1317
+            },
+            {
+              "x": 116,
+              "y": 0,
+              "w": 1155,
+              "h": 1317
+            },
+            {
+              "x": 364,
+              "y": 0,
+              "w": 659,
+              "h": 1317
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1320,
+              "h": 1317
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861686109844967424"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/7vZfAginKx",
+        "expanded_url": "https://x.com/Salehaljassmi/status/1861686120527867944/photo/1",
+        "id_str": "1861686109845032960",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1861686109845032960",
+        "media_url_https": "https://pbs.twimg.com/media/GdYJpzyXkAAdeA7.jpg",
+        "type": "photo",
+        "url": "https://t.co/7vZfAginKx",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1128,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 661,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 375,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 2048,
+          "width": 1128,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 759,
+              "w": 1128,
+              "h": 632
+            },
+            {
+              "x": 0,
+              "y": 511,
+              "w": 1128,
+              "h": 1128
+            },
+            {
+              "x": 0,
+              "y": 432,
+              "w": 1128,
+              "h": 1286
+            },
+            {
+              "x": 104,
+              "y": 0,
+              "w": 1024,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1128,
+              "h": 2048
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861686109845032960"
+          }
+        }
+      },
+      {
+        "display_url": "pic.x.com/7vZfAginKx",
+        "expanded_url": "https://x.com/Salehaljassmi/status/1861686120527867944/photo/1",
+        "id_str": "1861686109849239552",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_1861686109849239552",
+        "media_url_https": "https://pbs.twimg.com/media/GdYJpzzXwAAzg6W.jpg",
+        "type": "photo",
+        "url": "https://t.co/7vZfAginKx",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 933,
+                "y": 612,
+                "h": 85,
+                "w": 85
+              },
+              {
+                "x": 634,
+                "y": 146,
+                "h": 104,
+                "w": 104
+              },
+              {
+                "x": 476,
+                "y": 144,
+                "h": 110,
+                "w": 110
+              },
+              {
+                "x": 631,
+                "y": 933,
+                "h": 261,
+                "w": 261
+              },
+              {
+                "x": 345,
+                "y": 916,
+                "h": 281,
+                "w": 281
+              },
+              {
+                "x": 622,
+                "y": 794,
+                "h": 293,
+                "w": 293
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 848,
+                "y": 556,
+                "h": 77,
+                "w": 77
+              },
+              {
+                "x": 576,
+                "y": 132,
+                "h": 94,
+                "w": 94
+              },
+              {
+                "x": 432,
+                "y": 130,
+                "h": 100,
+                "w": 100
+              },
+              {
+                "x": 573,
+                "y": 848,
+                "h": 237,
+                "w": 237
+              },
+              {
+                "x": 313,
+                "y": 832,
+                "h": 255,
+                "w": 255
+              },
+              {
+                "x": 565,
+                "y": 721,
+                "h": 266,
+                "w": 266
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 480,
+                "y": 315,
+                "h": 43,
+                "w": 43
+              },
+              {
+                "x": 326,
+                "y": 75,
+                "h": 53,
+                "w": 53
+              },
+              {
+                "x": 245,
+                "y": 74,
+                "h": 56,
+                "w": 56
+              },
+              {
+                "x": 325,
+                "y": 480,
+                "h": 134,
+                "w": 134
+              },
+              {
+                "x": 177,
+                "y": 471,
+                "h": 144,
+                "w": 144
+              },
+              {
+                "x": 320,
+                "y": 409,
+                "h": 150,
+                "w": 150
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 933,
+                "y": 612,
+                "h": 85,
+                "w": 85
+              },
+              {
+                "x": 634,
+                "y": 146,
+                "h": 104,
+                "w": 104
+              },
+              {
+                "x": 476,
+                "y": 144,
+                "h": 110,
+                "w": 110
+              },
+              {
+                "x": 631,
+                "y": 933,
+                "h": 261,
+                "w": 261
+              },
+              {
+                "x": 345,
+                "y": 916,
+                "h": 281,
+                "w": 281
+              },
+              {
+                "x": 622,
+                "y": 794,
+                "h": 293,
+                "w": 293
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 1289,
+            "w": 1320,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1172,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 664,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1289,
+          "width": 1320,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1320,
+              "h": 739
+            },
+            {
+              "x": 31,
+              "y": 0,
+              "w": 1289,
+              "h": 1289
+            },
+            {
+              "x": 189,
+              "y": 0,
+              "w": 1131,
+              "h": 1289
+            },
+            {
+              "x": 675,
+              "y": 0,
+              "w": 645,
+              "h": 1289
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1320,
+              "h": 1289
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861686109849239552"
+          }
+        }
+      }
+    ],
+    "thread": [],
+    "urls": [],
+    "videos": []
+  },
+  {
+    "id": "1861474393819394466",
+    "name": "نبيل آل علي 🇦🇪",
+    "username": "Nabeelalali1976",
+    "text": "🌐 إذا طاحت الوردة من يدينك اتركها 🌐\n🌐 لأنها إذا طاحت من يدينك ارتاحت 🌐\n\n🌐 وإذا طاحت الدمعة من عيونك امسكها 🌐\n🌐 وأخاف المقام يطيح معها إذا طاحت 🌐\n\n🌐 فزاع 🌐\n🌐قصيدة سمو الشيخ حمدان بن محمد بن راشد آل مكتوم حفظه الله 🌐\n\n#دولة_الإمارات_العربية_المتحدة #حمدان_بن_محمد\n#فزاع https://t.co/eskid05WIA",
+    "createdAt": "Tue Nov 26 18:17:34 +0000 2024",
+    "userId": "1148461336671784960",
+    "conversationId": "1861474393819394466",
+    "hashtags": [
+      {
+        "indices": [
+          216,
+          246
+        ],
+        "text": "دولة_الإمارات_العربية_المتحدة"
+      },
+      {
+        "indices": [
+          247,
+          261
+        ],
+        "text": "حمدان_بن_محمد"
+      },
+      {
+        "indices": [
+          262,
+          267
+        ],
+        "text": "فزاع"
+      }
+    ],
+    "mentions": [],
+    "photos": [
+      {
+        "display_url": "pic.x.com/eskid05WIA",
+        "expanded_url": "https://x.com/Nabeelalali1976/status/1861474393819394466/photo/1",
+        "id_str": "1861474380141768704",
+        "indices": [
+          268,
+          291
+        ],
+        "media_key": "3_1861474380141768704",
+        "media_url_https": "https://pbs.twimg.com/media/GdVJFhLXMAAOcH7.jpg",
+        "type": "photo",
+        "url": "https://t.co/eskid05WIA",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 400,
+                "y": 384,
+                "h": 642,
+                "w": 642
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 234,
+                "y": 224,
+                "h": 376,
+                "w": 376
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 132,
+                "y": 127,
+                "h": 213,
+                "w": 213
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 400,
+                "y": 384,
+                "h": 642,
+                "w": 642
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1154,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 676,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 2048,
+          "width": 1154,
+          "focus_rects": [
+            {
+              "x": 0,
+              "y": 342,
+              "w": 1154,
+              "h": 646
+            },
+            {
+              "x": 0,
+              "y": 88,
+              "w": 1154,
+              "h": 1154
+            },
+            {
+              "x": 0,
+              "y": 7,
+              "w": 1154,
+              "h": 1316
+            },
+            {
+              "x": 130,
+              "y": 0,
+              "w": 1024,
+              "h": 2048
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 1154,
+              "h": 2048
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861474380141768704"
+          }
+        }
+      }
+    ],
+    "thread": [],
+    "urls": [],
+    "videos": []
+  },
+  {
+    "id": "1861662120682688676",
+    "name": "محمد أحمد الملا",
+    "username": "Mohdalmulla67",
+    "text": "مبروك يا أهل السعودية \n https://t.co/Q5SoIizfIE",
+    "createdAt": "Wed Nov 27 06:43:32 +0000 2024",
+    "userId": "129223572",
+    "conversationId": "1861662120682688676",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/Q5SoIizfIE",
+        "expanded_url": "https://x.com/HMDronology/status/1861485904033980441/video/1",
+        "id_str": "1861485830541373440",
+        "indices": [
+          24,
+          47
+        ],
+        "media_key": "7_1861485830541373440",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1861485830541373440/pu/img/Ap8vYIupyDTo6akC.jpg",
+        "source_status_id_str": "1861485904033980441",
+        "source_user_id_str": "393625158",
+        "type": "video",
+        "url": "https://t.co/Q5SoIizfIE",
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjozOTM2MjUxNTg=",
+                "rest_id": "393625158",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "following": false,
+                  "can_dm": false,
+                  "can_media_tag": true,
+                  "created_at": "Tue Oct 18 20:34:48 +0000 2011",
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "الصورة- هي ايقاف لحظة من الزمن لنستمتع بتفاصيلها للابد. drone pilot part 107 CERTIFIED WA-0555448477",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "solo.to/h.m.dronology",
+                          "expanded_url": "https://solo.to/h.m.dronology",
+                          "url": "https://t.co/g9MNro4ExS",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 1921,
+                  "followers_count": 7657,
+                  "friends_count": 253,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 8,
+                  "location": "Kingdom of Saudi Arabia",
+                  "media_count": 556,
+                  "name": "علي بن عطية",
+                  "normal_followers_count": 7657,
+                  "pinned_tweet_ids_str": [
+                    "1797970319141159236"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/393625158/1671366573",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1715296485871349760/vafndZ6B_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "screen_name": "HMDronology",
+                  "statuses_count": 1228,
+                  "translator_type": "none",
+                  "url": "https://t.co/g9MNro4ExS",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "professional": {
+                  "rest_id": "1529386851311689728",
+                  "professional_type": "Creator",
+                  "category": [
+                    {
+                      "id": 552,
+                      "name": "Photographer",
+                      "icon_name": "IconBriefcaseStroke"
+                    }
+                  ]
+                },
+                "tipjar_settings": {}
+              }
+            }
+          }
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1280,
+          "width": 720,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 35733,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1861485830541373440/pu/pl/0tKl4vOGgfGKSeFf.m3u8?tag=12&v=b5a"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861485830541373440/pu/vid/avc1/320x568/6rN06_lr-nwqvk24.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861485830541373440/pu/vid/avc1/480x852/VCzmgEgZ6m5lRJ-t.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861485830541373440/pu/vid/avc1/720x1280/3aq9RFBr5X090-Z0.mp4?tag=12"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "7_1861485830541373440"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861708854918049832",
+    "name": "TURKI ALALSHIKH",
+    "username": "Turki_alalshikh",
+    "text": "لو تركز في ورقتك احسن😎 https://t.co/Cj8BX7lMoT",
+    "createdAt": "Wed Nov 27 09:49:14 +0000 2024",
+    "userId": "419107960",
+    "conversationId": "1861708854918049832",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [
+      {
+        "display_url": "pic.x.com/Cj8BX7lMoT",
+        "expanded_url": "https://x.com/Turki_alalshikh/status/1861708854918049832/photo/1",
+        "id_str": "1861708848295227392",
+        "indices": [
+          23,
+          46
+        ],
+        "media_key": "3_1861708848295227392",
+        "media_url_https": "https://pbs.twimg.com/media/GdYeVXHWsAA6MJu.jpg",
+        "type": "photo",
+        "url": "https://t.co/Cj8BX7lMoT",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "x": 172,
+                "y": 30,
+                "h": 46,
+                "w": 46
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "x": 172,
+                "y": 30,
+                "h": 46,
+                "w": 46
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "x": 172,
+                "y": 30,
+                "h": 46,
+                "w": 46
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "x": 172,
+                "y": 30,
+                "h": 46,
+                "w": 46
+              }
+            ]
+          }
+        },
+        "sizes": {
+          "large": {
+            "h": 169,
+            "w": 358,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 169,
+            "w": 358,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 169,
+            "w": 358,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 169,
+          "width": 358,
+          "focus_rects": [
+            {
+              "x": 36,
+              "y": 0,
+              "w": 302,
+              "h": 169
+            },
+            {
+              "x": 103,
+              "y": 0,
+              "w": 169,
+              "h": 169
+            },
+            {
+              "x": 113,
+              "y": 0,
+              "w": 148,
+              "h": 169
+            },
+            {
+              "x": 145,
+              "y": 0,
+              "w": 85,
+              "h": 169
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "w": 358,
+              "h": 169
+            }
+          ]
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "media_results": {
+          "result": {
+            "media_key": "3_1861708848295227392"
+          }
+        }
+      }
+    ],
+    "thread": [],
+    "urls": [],
+    "videos": []
+  },
+  {
+    "id": "1861675272187068435",
+    "name": "Kamran Wahid",
+    "username": "Khankamoo",
+    "text": "یہ مناظر اور گولیوں کی بچھاڑ کی آوازیں سُنیں کتنے مرے ہوں گے نہ جانے کتنے۔۔۔ https://t.co/wzxmrCySPh",
+    "createdAt": "Wed Nov 27 07:35:47 +0000 2024",
+    "userId": "1122213003557048321",
+    "conversationId": "1861675272187068435",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/wzxmrCySPh",
+        "expanded_url": "https://x.com/Khankamoo/status/1861675272187068435/video/1",
+        "id_str": "1861675245381304320",
+        "indices": [
+          77,
+          100
+        ],
+        "media_key": "7_1861675245381304320",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1861675245381304320/pu/img/Q_jcnxLajGCQu0x-.jpg",
+        "type": "video",
+        "url": "https://t.co/wzxmrCySPh",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 568,
+            "w": 320,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 568,
+            "w": 320,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 568,
+            "w": 320,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 568,
+          "width": 320,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            40,
+            71
+          ],
+          "duration_millis": 33390,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1861675245381304320/pu/pl/EJyQPdZN6jhshgML.m3u8?tag=12&v=cfc"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861675245381304320/pu/vid/avc1/320x568/F49dhshTT6odDcBS.mp4?tag=12"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "7_1861675245381304320"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861445113953554759",
+    "name": "محبين الشيخ خالد بن محمد",
+    "username": "KBM_ALNAHYAN",
+    "text": "الملك حمد بن عيسى آل خليفة، عاهل مملكة البحرين، يستقبل #خالد_بن_محمد_بن_زايد ، ولي عهد أبوظبي، في قصر الصخير في العاصمة المنامة، ويُقلده \"وسام النهضة للملك حمد\"، تقديراً لجهود سموّه في تعزيز العلاقات الأخوية والروابط التاريخية التي تجمع البلدين وشعبيهما الشقيقين. https://t.co/aeUl6i3hN3",
+    "createdAt": "Tue Nov 26 16:21:13 +0000 2024",
+    "userId": "710244405815418880",
+    "conversationId": "1861445113953554759",
+    "hashtags": [
+      {
+        "indices": [
+          55,
+          76
+        ],
+        "text": "خالد_بن_محمد_بن_زايد"
+      }
+    ],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/aeUl6i3hN3",
+        "expanded_url": "https://x.com/KBM_ALNAHYAN/status/1861445113953554759/video/1",
+        "id_str": "1861444860605009920",
+        "indices": [
+          264,
+          287
+        ],
+        "media_key": "13_1861444860605009920",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861444860605009920/img/TfnfkOhc_HgzIQ95.jpg",
+        "type": "video",
+        "url": "https://t.co/aeUl6i3hN3",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 675,
+            "w": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 383,
+            "w": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1080,
+          "width": 1920,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 78840,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861444860605009920/pl/tkGg9AuXUSx2swX8.m3u8?tag=16"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861444860605009920/vid/avc1/480x270/yAuAtjYqWiY763GO.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861444860605009920/vid/avc1/640x360/0C_-Kn25alz-dW_-.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861444860605009920/vid/avc1/1280x720/hIeM8c4DoMVIJ9Nb.mp4?tag=16"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861444860605009920/vid/avc1/1920x1080/O_Pjon18Ojhe2hEp.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861444860605009920"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861456203609526426",
+    "name": "Shehr Bano Official",
+    "username": "OfficialShehr",
+    "text": "آپ نےدکانیں بند کر دیں ۔۔۔پانی بند کر دیا اور لوگ جوق در جوق مظاہرین کی مدد کے لئیے آگۓ https://t.co/RpA0Kl0LNH",
+    "createdAt": "Tue Nov 26 17:05:17 +0000 2024",
+    "userId": "1327926495562526720",
+    "conversationId": "1861456203609526426",
+    "hashtags": [],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/RpA0Kl0LNH",
+        "expanded_url": "https://x.com/OfficialShehr/status/1861456203609526426/video/1",
+        "id_str": "1861456145681895424",
+        "indices": [
+          88,
+          111
+        ],
+        "media_key": "7_1861456145681895424",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1861456145681895424/pu/img/oi2vqvH_Zm_4adXi.jpg",
+        "type": "video",
+        "url": "https://t.co/RpA0Kl0LNH",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1280,
+          "width": 720,
+          "focus_rects": []
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 27794,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1861456145681895424/pu/pl/_Jgzp1adU6LEWtsf.m3u8?tag=12&v=95c"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861456145681895424/pu/vid/avc1/320x568/JOx-vCHWJ4Xu0YwQ.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861456145681895424/pu/vid/avc1/480x852/JtSpa4s2Zdf0GLNB.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861456145681895424/pu/vid/avc1/720x1280/jKczq4sV2BZVqkuP.mp4?tag=12"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "7_1861456145681895424"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1861504219657773109",
+    "name": "↸ *بوحميد ↸* 🇦🇪",
+    "username": "u5ae444",
+    "text": "الله ثم الوطن ثم رئيس الدولة 🫡🇦🇪\n\n #وقفة_ولاء https://t.co/4sWwXNyRnH",
+    "createdAt": "Tue Nov 26 20:16:05 +0000 2024",
+    "userId": "489709077",
+    "conversationId": "1861504219657773109",
+    "hashtags": [
+      {
+        "indices": [
+          35,
+          45
+        ],
+        "text": "وقفة_ولاء"
+      }
+    ],
+    "mentions": [],
+    "photos": [],
+    "thread": [],
+    "urls": [],
+    "videos": [
+      {
+        "display_url": "pic.x.com/4sWwXNyRnH",
+        "expanded_url": "https://x.com/u5ae444/status/1861504219657773109/video/1",
+        "id_str": "1861504158383120384",
+        "indices": [
+          46,
+          69
+        ],
+        "media_key": "13_1861504158383120384",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1861504158383120384/img/PsZPxeUJV0Az-HDf.jpg",
+        "type": "video",
+        "url": "https://t.co/4sWwXNyRnH",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "h": 1200,
+            "w": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "h": 680,
+            "w": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "h": 150,
+            "w": 150,
+            "resize": "crop"
+          }
+        },
+        "original_info": {
+          "height": 1280,
+          "width": 720,
+          "focus_rects": []
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 19093,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1861504158383120384/pl/50hd3-N53PWmbknV.m3u8?tag=16"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861504158383120384/vid/avc1/320x568/HSFLK-E4jQR_Od03.mp4?tag=16"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861504158383120384/vid/avc1/480x852/2zVft0FZYTKC3ZP-.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1861504158383120384/vid/avc1/720x1280/JtQzvtIW9AqKRN_p.mp4?tag=16"
+            }
+          ]
+        },
+        "media_results": {
+          "result": {
+            "media_key": "13_1861504158383120384"
+          }
+        }
+      }
+    ]
+  }
+]

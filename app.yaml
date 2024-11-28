@@ -1,0 +1,21 @@
+runtime: nodejs22
+env: standard
+
+instance_class: F1
+
+automatic_scaling:
+  target_cpu_utilization: 0.65
+  min_instances: 1
+  max_instances: 10
+
+env_variables:
+  NODE_ENV: "production" 
+  TELEGRAM_BOT_TOKEN=7202252512:AAFugSPB3dfC-ctjerBDfj0t8fwO8lm8lUk
+  OPENAI_API_KEY= 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                       # OpenAI API key, starting with sk-
+  TWITTER_DRY_RUN=false
+  TWITTER_USERNAME=TestAgent51777                       # Account username
+  TWITTER_PASSWORD=drphil2000                       # Account password
+  TWITTER_EMAIL=moodi@mynaswap.com                         # Account email
+  TWITTER_COOKIES='[{"key":"auth_token","value":"81d56a3813b2a9f598e7ad97b7388a5704d53284","domain":".twitter.com"},
+    {"key":"ct0","value":"2721ab4ffce321e75650f9fe1f4ed37ec8fb7eab4a7c9a9a8fb6a9cd9df6e1c00b3341431da26a40bbd1e82df38bb55cbd1a732f52f84f56598dcff6ca9dbd4a86445f13334b6b004c44ea236885f1a8","domain":".twitter.com"},
+    {"key":"guest_id","value":"173262927772028973","domain":".twitter.com"}]'
