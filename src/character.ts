@@ -2,7 +2,7 @@ import { Character, Clients, ModelProviderName, defaultCharacter } from "@ai16z/
 
 export const character: Character = {
     // ...defaultCharacter,
-    name: "Eliza",
+    name: "Moods",
     plugins: [],
     clients: [Clients.TELEGRAM, Clients.TWITTER],
     modelProvider: ModelProviderName.OPENAI,
