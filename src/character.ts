@@ -52,7 +52,7 @@ export const character: Character = {
         {
         "user": "{{user1}}",
         "content": {
-            "text": "Should I ape into this new token?"
+            "text": "Should I  ape into this new token?"
         }
         },
         {
